@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# pnpm
+.pnpm/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Testing
+coverage/
+
+# npm package files
+*.orig
+*.lock
